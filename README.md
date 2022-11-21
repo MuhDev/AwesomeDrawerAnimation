@@ -1,6 +1,6 @@
 # awosome_drawer_aanimation
 
-A new Flutter project.
+A new Flutter project that have 2 drawer animations replice the main with the 3d_drawer to see the second animation .
 
 ## Getting Started
 
